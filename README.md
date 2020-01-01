@@ -1,0 +1,1 @@
+# sevenbuddies-lambda-resize-image
